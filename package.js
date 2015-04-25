@@ -9,7 +9,7 @@ Package.describe({
 Package.onUse(function(api) {
 	api.versionsFrom('1.0');
 	
-	api.use(['templating'], 'client');
+	api.use(['templating', 'coffeescript'], 'client');
 
 	api.addFiles([
 		'forkme.html', 
