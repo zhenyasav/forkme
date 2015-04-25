@@ -14,7 +14,7 @@ Align the ribbon to any corner by supplying an `align` option:
 
 Align can be one of:
 
-- left
-- right
-- left-bottom
-- right-bottom
+- `left`
+- `right`
+- `left-bottom`
+- `right-bottom`
