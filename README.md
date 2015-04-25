@@ -4,5 +4,17 @@ A CSS based github fork ribbon based on [Simon Whitaker's implementation of the 
 ## Usage
 In a Meteor Spacebars template
 ``` html
-{{>forkme align="left" url="https://github.com/your_url_here"}}
+{{>forkme url="https://github.com/your_url_here"}}
 ```
+
+Align the ribbon to any corner by supplying an `align` option:
+``` html
+{{>forkme align="left" url="..."}}
+```
+
+Align can be one of:
+
+- left
+- right
+- left-bottom
+- right-bottom
