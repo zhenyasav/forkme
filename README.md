@@ -1,5 +1,5 @@
 # Fork Me
-A CSS based github fork ribbon based on [Simon Whitaker's implementation of the ribbon](https://github.com/simonwhitaker/github-fork-ribbon-css)
+A CSS based github fork ribbon for [Meteor](https://meteor.com) based on [Simon Whitaker's implementation of the ribbon](https://github.com/simonwhitaker/github-fork-ribbon-css)
 
 ## Usage
 In a Meteor Spacebars template
